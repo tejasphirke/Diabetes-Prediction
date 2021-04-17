@@ -15,8 +15,10 @@ numpy
 pandas
 
 ## For running app
-step 1: Clone repository
+step 1: Clone repository 
+
 step 2: Must have required libraries
+
 step 3: Run command `streamlit run app.py`
 
 

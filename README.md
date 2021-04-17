@@ -7,11 +7,17 @@ In this project, i have implemented logistic regression and random forest classi
 
 ## Libraries required 
 python
+
 matplotlib
+
 pickle
+
 seaborn
+
 scikit-learn
+
 numpy 
+
 pandas
 
 ## For running app
